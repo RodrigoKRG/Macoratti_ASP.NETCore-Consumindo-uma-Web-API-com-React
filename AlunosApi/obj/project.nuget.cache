@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PQUFw5BKqYuqaRvxk0UjnxZXMWcPLHiMGmcNwxHF7eSFk5jX3UHo42u411CPHdEKBVCJ6EDQSVe78L0Zc/AQJA==",
+  "dgSpecHash": "WuoLOlIUT1DqZsEAw6dl5NqWtKnB9Kaf4yhY+sdrur+P9ZQ/LUY2+WPxq/xkOD+E6iYJx4I+6H52DzTn+AZdHQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rodrigo.rebes\\Documents\\me\\Cursos\\React\\Macoratti\\AlunosApi\\AlunosApi\\AlunosApi.csproj",
+  "projectFilePath": "C:\\Users\\rodrigo.rebes\\Documents\\me\\Cursos\\React\\ReactCom.NetCore\\AlunosApi\\AlunosApi\\AlunosApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rodrigo.rebes\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\rodrigo.rebes\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
